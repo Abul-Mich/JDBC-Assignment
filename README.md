@@ -336,9 +336,7 @@ finally {
 
 ## Lien du Repository GitHub
 
-**Repository :** [Insérer le lien de votre repository GitHub privé ici]
-
-**Exemple :** `https://github.com/micheldahergeha/jdbc-postgresql-assignment`
+**Repository :** `https://github.com/Abul-Mich/JDBC-Assignment`
 
 ## Notes Finales
 
